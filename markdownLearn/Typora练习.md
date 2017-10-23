@@ -1,5 +1,1 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
-$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
-
-\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
+<img src="http://www.forkosh.com/mathtex.cgi?\mathbf{V}_1 times \mathbf{V}_2 = \begin{vmatrix} \mathbf{i} & \mathbf{j} & \mathbf{k} \\ \frac{\partial X}{\partial u} & \frac{\partial Y}{\partial u} & 0 \\ \frac{\partial X}{\partial v} & \frac{\partial Y}{\partial v} & 0 \\ \end{vmatrix}">
